@@ -9,6 +9,6 @@
 read -p "Enter Username: " user
 read -p "Enter Password: " pwrd
 
-sysadminctl -addUser $user -password $pwrd -home /home/$user -adminS
+useradd $user
 
-dseditgroup -o edit -a $user -t user admin
+usermod -aG sudo $user

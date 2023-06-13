@@ -1,4 +1,1 @@
-Barcelona FC;Soccer;Barcelona, Spain;1899
-Bayern Munich;Soccer;Munich, Germany;1900
-Juventus FC;Soccer;Turin, Italy;1897
 Liverpool FC;Soccer;Liverpool, England;1892
